@@ -7,6 +7,6 @@
 ## # Dataset of 8'000 simulated powers of the NREL 5MW reference wind turbine from the simulation tool ASHES at a range of different atmospheric conditions.
 
 ## Tested Solution:
-## - Data set split in 80% training set and 20% test set
+## - Dataset split in 80% training set and 20% test set
 ## - Neural Nework algorithm with up to 5 layers (3 hidden layers)
 ### - Tested --> Keras model, fully connected Dense clas, with different number of nodes in the layer and rectified linear unit activation function.
