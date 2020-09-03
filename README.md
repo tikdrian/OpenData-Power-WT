@@ -1,5 +1,6 @@
 # OpenData-Power-WT
 # Energy Hackdays 2020, August 28 - 29, 2020, Hightech Zentrum in Brugg
+# http://hack.opendata.ch/project/471
 # Challenge: 08 ML Wind Power-Prediction
 ## Goal:
 ## - Development of machine learning algorithms for improved site-specific performance prediction of wind turbines.
